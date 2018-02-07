@@ -1,4 +1,13 @@
 body {
+<<<<<<< HEAD
     background-color: lightgreen;
     color: lightgoldenrodyellow;
+=======
+    background-color: lavender;
+    color: pink;
+}
+h3{
+    font-family: cursive, sans-serif;
+    color: aqua;
+>>>>>>> added contact page
 }
